@@ -31,6 +31,7 @@ project "ImGui"
 		systemversion "latest"
 		cppdialect "C++20"
 
+
 	filter "configurations:Debug"
 		runtime "Debug"
 		symbols "on"
